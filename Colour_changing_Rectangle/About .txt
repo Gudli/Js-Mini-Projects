@@ -1,0 +1,3 @@
+In this Project we create a rectangle and our gole is to change the colour of the rectangle as we slide the mouse courser. When the mouse is in the extream left side of the 
+rectangle the intensity of the red colour is high and as it move towards right its intensity reduces and at the center it become black and as it move towards right from the center 
+the color changes to blue. when the mouse leave the rectangle the color of the rectangle changes to white.
