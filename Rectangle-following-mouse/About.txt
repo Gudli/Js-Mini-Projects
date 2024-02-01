@@ -1,0 +1,2 @@
+In this project, our main goal is to create a rectrangle using HTML and Css, and we write javascript code to make the ractrangle move along with the mouse.At a point rectangle 
+stops moving and mouse pointer can move a head. we can say we that the rectangle is moving in a particular range. here for animation we use gsap and dom manipulation
