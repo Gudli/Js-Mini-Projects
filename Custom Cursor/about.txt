@@ -1,0 +1,1 @@
+Here we created a simple custom cursor. Here we take a circle which moves along with our mouse cursor
