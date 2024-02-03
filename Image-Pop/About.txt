@@ -1,0 +1,3 @@
+Here our goal is to create an effect using js in which images will pop to the screen and disappear after a fraction of second on mouse move on a specific area.
+Here we are creating multiple div's on dynamically on mouse move by calling a function with in a perticular interval of time and this is called throttling in js.Also we are
+setting time limit to remove that div's created.
