@@ -1,0 +1,1 @@
+Here we create the like feature of instagram. when we double click on any image a heart appear in the image and disappear after sometime.
