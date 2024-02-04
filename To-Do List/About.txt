@@ -1,0 +1,2 @@
+This project is created using HTML, CSS and JS. The basic functionlity of this app is to add task, Remove task, check and uncheck the task and Save the task. we are storing the task
+list in the local storage.
